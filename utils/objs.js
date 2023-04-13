@@ -1,5 +1,5 @@
 export const educacion = [
-    { id: "1", text: "Llegue al ultimo año en secundaria" },
+    { id: "1", text: "Estoy por terminar la seundaria " },
     { id: "2", text: "Participe de diversos modelos de nacion unidas (MNU) donde conoci mucha gente y aprendi mucho" },
     { id: "3", text: "Aprendi programacion junto a dos compañeros mas" },
     { id: "4", text: "Participe en proyecto Zondar" },
