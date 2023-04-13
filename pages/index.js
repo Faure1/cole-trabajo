@@ -15,7 +15,7 @@ export default function Home() {
         <Bootstrap1
           direccion={"/img/3d-foto.avif"}
           contedido={
-            "Me llamo Nicolas Peryra, tengo 16 años, estoyen mi ultimo año de secundaria y aspiro a ser ingeniero en sistemas"
+            "Me llamo  Lautaro Faure, tengo 16 años, estoyen mi ultimo año de secundaria y aspiro a ser Licenciado en ciencias de la computacion"
           }
         />
       </section>
@@ -87,7 +87,7 @@ export default function Home() {
             <Grid.Container justify="center" css={{ marginTop: "120px" }}>
               <Grid justify="center" alignItems="center" sm={12}>
                 <Text css={{ padding: "10%", alignItems: "center" }} h5>
-                  me gustiaria estudiar ingenieria en sistemas, porque me
+                  me gustiaria estudiar Lic en ciencias de la computacion, porque me
                   encanta la programacion y las matematicas
                 </Text>
               </Grid>
